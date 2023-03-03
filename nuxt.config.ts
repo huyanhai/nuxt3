@@ -27,7 +27,7 @@ export default defineNuxtConfig({
   tailwindcss: { cssPath: "~/assets/css/tailwind.css", configPath: "tailwind.config.ts" },
   vite: {},
   postcss: {},
-  ssr: false,
+  ssr: true,
   nitro: {
     // 第三方服务预设
     // preset: "vercel",
