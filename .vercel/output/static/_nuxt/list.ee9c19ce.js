@@ -1,1 +1,0 @@
-import{a as t,o as a,b as o,r,F as c,l as s}from"./entry.cb91ffea.js";const l={},n=s("div",{class:"tw-bg-red-400"},"list页面模版顶部",-1),d=s("div",{class:"tw-bg-gray-300"},"list页面模版底部",-1);function _(e,i){return a(),o(c,null,[n,r(e.$slots,"default"),d],64)}const m=t(l,[["render",_]]);export{m as default};

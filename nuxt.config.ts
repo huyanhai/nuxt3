@@ -30,6 +30,6 @@ export default defineNuxtConfig({
   ssr: false,
   nitro: {
     // 第三方服务预设
-    preset: "vercel",
+    // preset: "vercel",
   },
 });

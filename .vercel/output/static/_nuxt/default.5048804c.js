@@ -1,1 +1,0 @@
-import{a as t,o,b as a,r as c,l as e}from"./entry.cb91ffea.js";const r={},l=e("div",{class:"tw-bg-red-400"},"默认布局头部",-1),n=e("div",{class:"tw-bg-blue-200"},"默认布局底部",-1);function d(s,_){return o(),a("div",null,[l,c(s.$slots,"default"),n])}const i=t(r,[["render",d]]);export{i as default};
